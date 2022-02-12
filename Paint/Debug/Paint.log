@@ -1,0 +1,3 @@
+﻿  Paint.cpp
+E:\Paint\Paint\Paint.cpp(52,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Paint.vcxproj -> E:\Paint\Debug\Paint.exe
